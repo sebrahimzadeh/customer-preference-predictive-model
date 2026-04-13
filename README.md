@@ -1,2 +1,22 @@
-# customer-preference-predictive-model
-This project builds a predictive analytics model to understand and analyze customer decision-making behavior. It focuses on identifying the key factors that influence whether a customer will choose or purchase a product.
+
+## 📈 Analysis
+- Identified key drivers influencing customer decisions  
+- Analyzed relationships between financial and behavioral variables  
+ 
+- Highlighted high-impact features affecting customer preference  
+
+## 🏦 Business Use Case
+Supports financial and insurance companies in:
+- Customer segmentation  
+- Personalized product recommendations  
+- Marketing strategy optimization  
+- Risk-based customer decision analysis  
+
+## 🛠 Tools
+Python, Pandas, NumPy, Scikit-learn
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+python model.py
+# Autor: Sanam Ebrahimzadeh
